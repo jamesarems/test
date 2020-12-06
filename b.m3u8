@@ -1,4 +1,5 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.stream_headers=real-ip=94.237.28.144
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mazhavil_manorama.png",Mazhavil Manorama HD
-http://195.181.172.83:2200/R-EX/MALAYALAM_MAZAVIL_MANORAMA_HD-in/mono.m3u8?token=|real-ip=5.32.43.22
+http://195.181.172.83:2200/R-EX/MALAYALAM_MAZAVIL_MANORAMA_HD-in/mono.m3u8?token=|real-ip=94.237.28.144
 
